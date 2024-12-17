@@ -2,10 +2,9 @@
 
 [![BinYou](https://img.shields.io/badge/BinYou-github-blue?logo=github)](https://github.com/Lixun9527)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+He is currently studying at Huazhong University of Science and Technology
 #### Email
-sli[at]cumt.edu.cn
+15071720129@163.com
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
