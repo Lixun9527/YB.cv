@@ -1,16 +1,23 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Bin You](https://img.shields.io/badge/Bin You-Hust-red?logo=Hust)](https://github.com/Lixun9527)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Currently studying at the Department of Physics, Huazhong University of Science and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+15071720129@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+September 2021 - June 2025: Huazhong University of Science and Technology, majoring in Physics.\
+September 2019 - June 2021: Huazhong University of Science and Technology, majoring in Condensed Matter Physics.\
+September 2015 - June 2019: Hubei University, majoring in Physics.\
+June 2012 - June 2015: Yiling Middle School, majoring in Science.\
+June 2009 - June 2012: Yichang No.14 Middle School.\
+September 2003 - June 2009: Dongshan Primary School.\
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Interests
+History 
+
+#### Activities
+
 
