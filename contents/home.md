@@ -1,6 +1,6 @@
 
 
-[![Bin You](https://img.shields.io/badge/Bin You-Hust-red?logo=Hust)](https://github.com/Lixun9527)
+(School of Physics, Huazhong University of Science and Technology](http://phys.hust.edu.cn/)
 
 Currently studying at the Department of Physics, Huazhong University of Science and Technology, China.
 
